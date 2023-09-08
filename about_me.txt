@@ -1,0 +1,10 @@
+My name is Rosnawati. I am 20 years old. I am currently in my third year.
+I am pursuing my degree in informatics engineering at Politeknik Negeri Jakarta.
+As an informatics engineering student, I learn many things about IT.
+My goal is to become a web developer, specifically a front-end developer.
+To reach my goal, I already have experience making a website that can run on
+local host or prototype. Thus, I believe I can reach my goal in the near future.
+
+However, now I'm at Ulsan College and am currently in my first semester.
+The degree I take at Ulsan College is similar to my original degree at my home university, which is Global ICT.
+Additionally, I just studied for one semester at Ulsan College.
