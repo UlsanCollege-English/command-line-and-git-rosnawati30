@@ -1,0 +1,30 @@
+h1{
+  text-align: center;
+}
+
+.container{
+  display: grid; 
+  grid-template-columns: 700px;
+  justify-content: center;
+  text-align: justify;
+}
+
+.picture{
+  widht: 600px;
+  height: 400px;
+}
+
+.top{
+  text-align: right;
+  text-decoration: none;
+  font-size: 25px;
+}
+
+.link{
+  text-decoration: none;
+}
+
+footer{
+  text-align: center;
+  margin: 20px;
+}

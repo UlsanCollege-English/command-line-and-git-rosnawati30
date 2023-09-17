@@ -1,0 +1,19 @@
+h1, h2, h3{
+    text-align: center;
+}
+
+.container{
+    display: flex;
+    column-gap: 50px;
+    justify-content: center;
+}
+
+img{
+    height: 500px;
+    widht: 250px;
+}
+
+footer{
+    margin-top: 10px;
+    text-align: center;
+}
